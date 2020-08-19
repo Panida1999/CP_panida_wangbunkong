@@ -1,4 +1,4 @@
-package Lab3;
+package Lab2;
 
 public class Example_lf {
     public static void main(String[] args) {
